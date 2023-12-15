@@ -1,0 +1,15 @@
+div#pictures {
+  width: 1000px;
+  height: 1600px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+div.picture {
+  width: 300px;
+  height: 300px;
+ text-align: center;
+  line-height: 5px;
+  margin: 5px;
+}
